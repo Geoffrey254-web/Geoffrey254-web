@@ -9,17 +9,13 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 ![image](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3E3bTl0ajlpc2F4cTRnNWt5b2F5bWFkNjU4MmJvcWFjeDhwbzlmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAFHiM4HdYyM8dojg4/giphy.gif)
 
 </div>
-    # Hi 👋! I'm <h2> BUGSLAYER</h2>
-    h2 {
-    color: #00ffaa;
-    font-size: 2rem;
-    border-left: 4px solid #ff00ff;
-    padding-left: 20px;
-    text-shadow: 0 0 10px #00ffaa;
-    margin: 25px 0 20px 0;
-    font-family: 'Courier New', monospace;
-    position: relative;
-}
+    # Hi 👋! I'm, BUGSLAYER
+    <p align="center">
+  <span style="font-size: 1.5rem;">Hi, I'm </span>
+  <span style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff; font-size: 1.5rem; font-weight: bold;">
+    BUGSLAYER
+  </span>
+</p>
 
 <br>**`DevOps enthusiast`** 
 
