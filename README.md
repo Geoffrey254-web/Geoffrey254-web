@@ -27,8 +27,8 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Geoffrey254-web&label=✨+PROFILE+VIEWS+✨&color=ff00ff&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Geoffrey254-web?tab=followers">
-    <img src="https://img.shields.io/github/followers/Geoffrey254-web?label=🔥+FOLLOWERS+🔥&style=for-the-badge&color=00ffaa&logoColor=white" alt="GitHub followers" />
+ <br> <a href="https://github.com/Geoffrey254-web?tab=followers">
+   <br> <img src="https://img.shields.io/github/followers/Geoffrey254-web?label=🔥+FOLLOWERS+🔥&style=for-the-badge&color=00ffaa&logoColor=white" alt="GitHub followers" />
   </a>
 </p>
 
