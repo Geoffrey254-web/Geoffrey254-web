@@ -180,3 +180,9 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 + 🧮 I believe math and programming are two sides of the same logical coin. +
 + 📖 I document everything because future me forgets everything. +
 + ⚡ I code best after midnight when the neon lights are on. +
+<br>
+<div align="center">
+
+  ![Pacman Graph](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
