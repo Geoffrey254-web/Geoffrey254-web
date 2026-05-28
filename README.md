@@ -22,7 +22,7 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 </h1>
 
 <h3 align="center" style="color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
-  ⚡ Enthusiast Developer | Bot Builder | Clean Code Chaser ⚡
+ ⚡ Developer | Problem Solver | Clean Code Architect ⚡
 </h3>
 
 <p align="left">
@@ -35,24 +35,24 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 ---
 
 ### 🧩 Who Am I?
-
 <div align="center">
   <table border="0">
     <tr>
       <td>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ2Y3RvNnZzNGJ5bGRhY2Z6cGZ1N2ltaHlwN2ZtaHk4bGdncXBkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gR2qEa0R6tRWdpW/giphy.gif" width="200" />
-      </td>
-      <td>
-        <p style="font-size: 18px;">I'm <strong style="color: #00ffaa; text-shadow: 0 0 5px #00ffaa;">Bugslayer</strong> — an enthusiast developer who loves:</p>
+       </td>
+       <td>
+        <p style="font-size: 18px;">I'm <strong style="color: #00ffaa; text-shadow: 0 0 5px #00ffaa;">Bugslayer</strong> — a developer who lives to:</p>
         <ul align="left">
-          <li>🔍 <strong style="color: #ff00ff;">Squashing bugs</strong> before they become problems.</li>
-          <li>🤖 <strong style="color: #ff00ff;">Building community bots</strong> (check out my <code>Bugslayerbot</code> repo).</li>
-          <li>📚 <strong style="color: #ff00ff;">Curating content</strong> for math & CS learners.</li>
-          <li>🛠️ <strong style="color: #ff00ff;">C Crafting utilities</strong> like quizzes, to-do apps, and dashboards.</li>
+          <li>🔍 <strong style="color: #ff00ff;">Solve complex problems</strong> with elegant code.</li>
+          <li>🏗️ <strong style="color: #ff00ff;">Build scalable solutions</strong> that actually work.</li>
+          <li>🐛 <strong style="color: #ff00ff;">Squash bugs</strong> before they become nightmares.</li>
+          <li>📚 <strong style="color: #ff00ff;">Share knowledge</strong> with math & CS learners.</li>
+          <li>🛠️ <strong style="color: #ff00ff;">Craft utilities</strong> that make developers' lives easier.</li>
         </ul>
-      </td>
-    </tr>
-  </table>
+       </td>
+     </tr>
+   </table>
 </div>
 
 > *“Every bug is a lesson. Every line of code is a step forward.”* — 🌟 **Bugslayer**
