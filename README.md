@@ -10,7 +10,7 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 
 </div>
     # Hi 👋! Im BUGSLAYER
-**`DevOps enthusiast`** 
+<br>**`DevOps enthusiast`** 
 
 <p align="center">
   <img src="https://img.shields.io/badge/WINDOWS-blue?style=flat-square&logo=windows&logoColor=white&labelColor=1a1a2e&color=7C3AED" />
