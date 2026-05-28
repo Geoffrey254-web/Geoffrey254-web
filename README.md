@@ -2,7 +2,15 @@
 ⚡ NEON MODE ACTIVATED ⚡
 Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas into code.
 -->
-
+<!-- At the top of your README -->
+<p align="center">
+  <span style="font-size: 2rem;">🐞</span>
+  <span style="font-size: 1.8rem;">Hi, I'm </span>
+  <span style="color: #ff00ff; text-shadow: 0 0 8px #ff00ff, 0 0 16px #ff00ff, 0 0 24px #00ffaa; font-size: 1.8rem; font-weight: bold;">
+    Bugslayer
+  </span>
+  <span style="font-size: 1.8rem;"> 🔥</span>
+</p>
 <h1 align="center">
   <img src=<div align="center">
   
@@ -10,8 +18,8 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 
 </div>
     
-<p align="center">
-  Hi, I'm <strong style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff;">Bugslayer</strong>
+<p>
+  hi! ,i'm 🐞 bugslayer 🔥
 </p>
 <br>**`DevOps enthusiast`** 
 
