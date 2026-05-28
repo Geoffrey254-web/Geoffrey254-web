@@ -104,7 +104,18 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 ### 📈 GitHub Language Stats
 
 <p align="center">
-  <hi>My Top Languages< hi/>
+  <hi>My Top Languages</hi>
+  hi {
+    color: #00ffaa;
+    font-size: 2rem;
+    border-left: 4px solid #ff00ff;
+    padding-left: 20px;
+    text-shadow: 0 0 10px #00ffaa;
+    margin: 25px 0 20px 0;
+    font-family: 'Courier New', monospace;
+    position: relative;
+}
+
 </p>
 
 </div>
@@ -139,6 +150,17 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 
 <p align="center">
   <hi> GitHub Trophies</hi>
+  hi {
+    color: #00ffaa;
+    font-size: 2rem;
+    border-left: 4px solid #ff00ff;
+    padding-left: 20px;
+    text-shadow: 0 0 10px #00ffaa;
+    margin: 25px 0 20px 0;
+    font-family: 'Courier New', monospace;
+    position: relative;
+}
+
 </p>
 
 ---
