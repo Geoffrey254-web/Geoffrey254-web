@@ -79,7 +79,7 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
-| [**Bugslayerbot**](https://github.com/Geoffrey254-web/Bugslayerbot) | 🤖 Experimental hub for community bots & interactive quizzes | HTML, JS | 🟢 ACTIVE |
+| [**Bugslayerhabits**](https://github.com/Geoffrey254-web/Bugslayerhabits) |  i use it for my Daily Habit Tracking | HTML, JS | 🟢 ACTIVE |
 | [**Bugslayer To-Do**](https://github.com/Geoffrey254-web/bugslayer-to-do-app) | ✅ Sleek task management for productivity enthusiasts | JavaScript | 🟢 ACTIVE |
 | [**Bugslayer Login Page**](https://github.com/Geoffrey254-web/Bugslayer-login-page) | 🔐 Clean, neon-style authentication UI | TypeScript | 🟢 ACTIVE |
 | [**v0 Finbro Dashboard**](https://github.com/Geoffrey254-web/v0-finbro-dashboard) | 💰 Financial dashboard template | TypeScript, V0 | 🟡 BETA |
