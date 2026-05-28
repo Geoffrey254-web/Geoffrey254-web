@@ -9,14 +9,23 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 ![image](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3E3bTl0ajlpc2F4cTRnNWt5b2F5bWFkNjU4MmJvcWFjeDhwbzlmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAFHiM4HdYyM8dojg4/giphy.gif)
 
 </div>
-    
+    # Hi 👋! Im BUGSLAYER
+**`DevOps enthusiast`** 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WINDOWS-blue?style=flat-square&logo=windows&logoColor=white&labelColor=1a1a2e&color=7C3AED" />
+  <img src="https://img.shields.io/badge/STATUS-COLLAPSING-blue?style=flat-square&labelColor=1a1a2e&color=06d6a0" />
+  <img src="https://img.shields.io/badge/FOCUS-BOT BUILDER-blue?style=flat-square&labelColor=1a1a2e&color=ef476f" />
+ 
+</p>
+
 </h1>
 
 <h3 align="center" style="color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   ⚡ Enthusiast Developer | Bot Builder | Clean Code Chaser ⚡
 </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Geoffrey254-web&label=✨+PROFILE+VIEWS+✨&color=ff00ff&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/Geoffrey254-web?tab=followers">
     <img src="https://img.shields.io/github/followers/Geoffrey254-web?label=🔥+FOLLOWERS+🔥&style=for-the-badge&color=00ffaa&logoColor=white" alt="GitHub followers" />
