@@ -104,7 +104,7 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 ### 📈 GitHub Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geoffrey254-web&layout=compact&theme=radical&hide_border=false&border_color=ff00ff&bg_color=0d1117&title_color=ff00ff&text_color=00ffaa&langs_count=10" alt="My Top Languages" width="70%" />
+  <hi>My Top Languages< hi/>
 </p>
 
 </div>
@@ -138,7 +138,7 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Geoffrey254-web&theme=radical&no-frame=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <hi> GitHub Trophies</hi>
 </p>
 
 ---
