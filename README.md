@@ -9,10 +9,10 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 ![image](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3E3bTl0ajlpc2F4cTRnNWt5b2F5bWFkNjU4MmJvcWFjeDhwbzlmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAFHiM4HdYyM8dojg4/giphy.gif)
 
 </div>
-    # Hi 👋! I'm, BUGSLAYER
+    
     <p align="center">
-  <span style="font-size: 1.5rem;">Hi, I'm </span>
-  <span style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff; font-size: 1.5rem; font-weight: bold;">
+  <span style="font-size: 1.5rem;">Hi 👋, I'm </span>
+  <span style="color: green; text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff; font-size: 1.5rem; font-weight: bold;">
     BUGSLAYER
   </span>
 </p>
