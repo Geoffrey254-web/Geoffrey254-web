@@ -10,13 +10,9 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 
 </div>
     
-    <p align="center">
-  <span style="font-size: 1.5rem;">Hi 👋, I'm </span>
-  <span style="color: green; text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff; font-size: 1.5rem; font-weight: bold;">
-    BUGSLAYER
-  </span>
+<p align="center">
+  Hi, I'm <strong style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff;">Bugslayer</strong>
 </p>
-
 <br>**`DevOps enthusiast`** 
 
 <p align="center">
