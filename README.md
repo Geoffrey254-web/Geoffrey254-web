@@ -180,31 +180,3 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 + 🧮 I believe math and programming are two sides of the same logical coin. +
 + 📖 I document everything because future me forgets everything. +
 + ⚡ I code best after midnight when the neon lights are on. +
-<br>
-  <a href="https://github.com/Geoffrey254-web">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Geoffrey254-web&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true&title_color=a78bfa&text_color=8b949e" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/Geoffrey254-web/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geoffrey254-web&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ef476f&area=true&area_color=7c3aed20&hide_border=true" width="95%" />
-  </a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Links
-
-[![Discord](https://img.shields.io/badge/Discord-bugslayer-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1497631572831240242)
-
-
-
-<br/>
-
-<div align="center">
-
-  ![Pacman Graph](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
