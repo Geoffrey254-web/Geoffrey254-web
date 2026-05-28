@@ -39,7 +39,7 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
   <table border="0">
     <tr>
       <td>
-       <img src=" https://1drv.ms/i/c/92a4d27667f66eb8/IQDeIwhFE9cHTK9oVFM3Jdn3AQlW_WBVrWh9GYjuOFOVoVI?e=ebRent.jpg/>
+       <img src=" my_image.jpg/>
        </td>
        <td>
         <p style="font-size: 18px;">I'm <strong style="color: #00ffaa; text-shadow: 0 0 5px #00ffaa;">Bugslayer</strong> — a developer who lives to:</p>
