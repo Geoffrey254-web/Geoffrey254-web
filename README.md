@@ -4,7 +4,12 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&height=70&lines=🐞+Hello%2C+I'm+Bugslayer;Neon+Code+Slayer;Bug+Hunter+by+NIGHT" alt="Typing SVG" />
+  <img src=<div align="center">
+  
+![image](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3E3bTl0ajlpc2F4cTRnNWt5b2F5bWFkNjU4MmJvcWFjeDhwbzlmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAFHiM4HdYyM8dojg4/giphy.gif)
+
+</div>
+    font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&height=70&lines=🐞+Hello%2C+I'm+Bugslayer;Neon+Code+Slayer;Bug+Hunter+by+NIGHT" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
