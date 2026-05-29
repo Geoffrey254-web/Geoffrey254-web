@@ -12,7 +12,7 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
   <span style="font-size: 1.8rem;"> 🔥</span>
 </p>
 <h1 align="center">
-  <img src=<div align="center">
+ 
   
 ![image](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3E3bTl0ajlpc2F4cTRnNWt5b2F5bWFkNjU4MmJvcWFjeDhwbzlmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAFHiM4HdYyM8dojg4/giphy.gif)
 
