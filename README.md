@@ -17,10 +17,8 @@ Hi there! I'm Bugslayer – a developer who turns bugs into features and ideas i
 ![image](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3E3bTl0ajlpc2F4cTRnNWt5b2F5bWFkNjU4MmJvcWFjeDhwbzlmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAFHiM4HdYyM8dojg4/giphy.gif)
 
 </div>
-    
-<p>
-  hi! ,i'm 🐞 bugslayer 🔥
-</p>
+    <img src="img/code.gif" />  
+
 <br>**`DevOps enthusiast`** 
 
 <p align="center">
